@@ -47,6 +47,18 @@ afficher la surface correspondante.
 streamlit run streamlit_app.py
 ```
 
+### Application hébergée
+
+Vous pouvez déployer l'interface Streamlit sur un service d'hébergement
+gratuit comme **Streamlit Community Cloud**. Après avoir cloné ce dépôt sur
+votre compte Streamlit Cloud, créez une nouvelle application en pointant vers
+`streamlit_app.py`.
+
+Une fois l'application en ligne, remplacez le lien ci-dessous par l'adresse
+fournie par le service d'hébergement :
+
+<https://example-virtual-sculpture.streamlit.app>
+
 ### Démonstration de l'intégration de l'IA
 
 Le script `neural_sdf.py` montre comment entraîner un réseau de neurones
